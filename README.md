@@ -181,4 +181,4 @@ This project is released under the **MIT License**.
 
 Developed by **Marco** as part of an embedded systems project.
 
-If you find this project helpful, feel free to ⭐ the repository and contribute! 🚀
+If you find this project helpful, feel free to ⭐ the repository! 🚀
